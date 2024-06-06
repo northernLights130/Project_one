@@ -1,0 +1,7 @@
+.container__button{
+    width: 200px;
+    height: 300px;
+    background: #a57fca;
+    color: #d5c8b8;
+    cursor: pointer;
+}
